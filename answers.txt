@@ -8,7 +8,7 @@ In this case, instead of creating a new merge commit, git just changes the point
 Fast forward can be done by just using git merge command, without explicitly telling it do so.
 
 3.Why should you have different branches?
-	Using different branches by different developers allows isolation individual changes and gives freedom to work/experiment independly.
+	Using different branches by different developers allows isolation for individual changes and gives freedom to work/experiment independently.
 Branching also gives the oppurtunity to maintain multiple versions of the project.
 Removing or adding a new feature in the code becomes simple by using branching.
 
